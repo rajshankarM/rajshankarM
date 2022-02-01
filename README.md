@@ -9,11 +9,9 @@ rajshankarM/rajshankarM is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm RajShankar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 - 🌱 I’m currently learning in GUVI Geeks IIT **Full stack developer**
 
-- 💬 Ask me about **React**
 
 - 📫 How to reach me **rajshankar607@gmail.com**
 
